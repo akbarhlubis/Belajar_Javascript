@@ -18,6 +18,7 @@ while (number <= 10){
 ## Loop For
 Ada cara lain untuk melakukan iterasi: loop for. Meskipun pada dasarnya memberikan hasil yang sama, loop for dapat ditulis dalam bentuk yang lebih sederhana dibandingkan loop while.
 Mari kita pelajari secara lebih terperinci dalam slide berikut ini.
+
 ```javascript
 // Struktur
 for(variable;kondisi;update){
